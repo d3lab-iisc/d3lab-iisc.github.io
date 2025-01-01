@@ -47,7 +47,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:akshayjoshi@iisc.ac.in
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/akshay-joshi-854795161/
   - icon: google-scholar
