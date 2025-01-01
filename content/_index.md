@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        D<sup>3</sup> Lab | IISc
       image:
-        filename: welcome.jpg
+        filename: d3.png
       text: |
         <br>
         
