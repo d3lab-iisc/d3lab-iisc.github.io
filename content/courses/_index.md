@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Courses Offered
 
 # Listing view
 view: compact
