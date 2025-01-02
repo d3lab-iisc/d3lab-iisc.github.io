@@ -13,9 +13,11 @@ sections:
         filename: d3.png
       text: |
         <br>
-        
-        In the **Dynamics, Data and Design Lab**, we focus on leveraging state-of-the-art machine learning techniques and experimental methods to characterize novel materials to enable optimized design of better structures and products.
 
+        The **Dynamics, Data and Design (D<sup>3</sup>) Lab** is located in the Dept. of [Mechanical Engineering](https://mecheng.iisc.ac.in/) at IISc Bengaluru and led by {{% mention "admin" %}}.
+
+        The lab focuses on leveraging state-of-the-art machine learning techniques and experimental methods to characterize novel materials to enable the optimized design of better structures and products.
+       
   - block: markdown
     content:
       title: Announcement 📌
