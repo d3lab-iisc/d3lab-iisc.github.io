@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Dynamics Data Design Lab | IISc Bengaluru'
+    notice: '© {year} Dynamics Data Design Lab | IISc Bengaluru | Webmaster: {{% mention "kanhaiyac" %}} '
     license:
       enable: false # true
       allow_derivatives: false

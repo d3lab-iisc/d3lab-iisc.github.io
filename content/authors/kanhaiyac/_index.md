@@ -78,7 +78,7 @@ user_groups:
   - PhD Students
 ---
 
-I am a doctoral candidate at D3 lab - IISc Bangalore, where my research focuses on utilizing cutting-edge machine learning techniques to characterize novel materials. With 8 years of combined industrial ([Tata Motors](https://www.tatamotors.com/)) and research experience, I hold 4 Indian Patents and have led pioneering projects at [IIT Kanpur](https://www.iitk.ac.in/smss/), including SMA-powered bionic arms, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. My core expertise includes Product Lifecycle Management, Multibody Simulation, Mathematical Modeling, Python, and MATLAB.
+I am a doctoral candidate at D<sup>3</sup> lab - IISc Bangalore, where my research focuses on utilizing cutting-edge machine learning techniques to characterize novel materials. With 8 years of combined industrial ([Tata Motors](https://www.tatamotors.com/)) and research experience, I hold 4 Indian Patents and have led pioneering projects at [IIT Kanpur](https://www.iitk.ac.in/smss/), including SMA-powered bionic arms, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. My core expertise includes Product Lifecycle Management, Multibody Simulation, Mathematical Modeling, Python, and MATLAB.
 
 Outside of work, I am passionate about wall climbing and participate in 5/10km runs. I also enjoy floral and astrophotography, capturing the beauty of nature and the cosmos.
 

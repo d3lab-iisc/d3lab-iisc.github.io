@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Project Associate I
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -25,19 +25,15 @@ organizations:
 # bio:  MTech Project - Mechanical computing for faster Neural Networks
 
 interests:
-  - Architected Materials
+  - Heterogenous Materials
   - Wave Physics
-  - Vibrations
-  - Metamaterials
-  - Soft Robotics
-  - Data-Driven Physics
-  - Active Materials
+  - Finite Element Analysis
 
 education:
   courses:
     - course: BTech in Civil Engineering
       institution: National Institute of Technology (NIT) Silchar
-      year: 2022
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,8 +69,6 @@ email: ''
 user_groups:
   - Research Associates
 ---
-I am a researcher passionate about exploring the fascinating world of advanced materials. My work is focused on metamaterials, wave physics, and architected materials—fields that hold immense potential to revolutionize the way we understand and design materials.
+I completed by Bachelor’s degree from National Institute of Technology Silchar, after which I worked in metamaterials and wave physics in Aerospace Engineering dept at IISc. Currently, I am working as a Research Associate in the Dept of Mechanical Engineering at IISc on Hetero-EUCLID. In addition to my academic pursuits, I enjoy reading books, playing chess, and experimenting with new recipes in the kitchen.
 
-Bridging theoretical insights with experimental precision, I specialize in finite element analysis and data-driven approaches to uncover the intricate dynamics of heterogeneous materials and architected materials. Through my research, I aim to bring clarity to complex physical phenomena and contribute to innovations that redefine advanced material.
-
-> **Project:** Stress unsupervised learning of heteroghenous material
+> **Project:** Inverse Design of Heterogenous Material
