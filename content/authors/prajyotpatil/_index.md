@@ -24,10 +24,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio:  MTech Project - Mechanical computing for faster Neural Networks
 
-# interests:
-#   - Solid Mechanics
-#   - Machine Learning
-#   - Finite Element Analysis
+interests:
+  - Solid Mechanics
+  - Finite Element Analysis
 
 education:
   courses:
