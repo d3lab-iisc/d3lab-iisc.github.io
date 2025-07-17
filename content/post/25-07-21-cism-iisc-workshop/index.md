@@ -1,6 +1,6 @@
 ---
 title:  Upcoming CISM-IISc Workshop @ IISc Bangalore
-date: 2025-05-08
+date: 2025-07-16
 ---
 
 **Title:** Emerging Topics in Architectured & Multiscale Materials, Soft Robotics and Data-Driven Model Discovery

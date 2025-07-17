@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+  - Former Members
 ---
 I am a second-year Mechanical Engineering student with a deep interest in emerging technologies, particularly Artificial Intelligence, Machine Learning, Data Structures and Algorithms, Web Development, and Robotics. I enjoy integrating engineering principles with computational tools to solve real-world problems. My current projects involve both theoretical and applied aspects of engineering and computer science, and I am actively exploring intersections between fluid mechanics, intelligent systems, and simulation-driven design.
 

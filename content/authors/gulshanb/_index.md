@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters Students
+  - Former Members
 ---
 
 I graduated with a Bachelor of Engineering from [CSVTU](https://csvtu.ac.in/), Bhilai, with a strong foundation in Mechanical Engineering. After completing my degree, I worked at [Blue Chip](https://www.bluechipindia.co.in/), a Raipur-based consultancy firm, for 1.5 years. This experience provided me with invaluable exposure to industrial practices, allowing me to enhance my technical expertise and professional acumen.

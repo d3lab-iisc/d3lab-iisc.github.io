@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters Students
+  - Former Members
 ---
 My journey began with five years of schooling at Shree Swaminarayan Gurukul, Surat. I pursued my bachelor's degree in Mechanical Engineering at Nirma University, where I developed a strong passion for research under the guidance of Prof. Absar Lakdawala in the CFD Lab. This interest deepened during my time working with Prof. Atul Sharma in the CFD Lab at IIT Bombay.
 
