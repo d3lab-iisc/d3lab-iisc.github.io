@@ -18,14 +18,14 @@ sections:
 
         The lab focuses on leveraging state-of-the-art machine learning techniques and experimental methods to characterize novel materials to enable the optimized design of better structures and products.
        
-  # - block: markdown
-  #   content:
-  #     title: Announcement 📌
-  #     subtitle:
-  #     text: |
-  #       We're looking for motivated **Project Associates/Junior Research fellows**! Get in touch if you're interested. {{% cta cta_link="uploads/advt_jrf_pa.pdf" cta_text="PA/JRF Advertisement →" cta_new_tab="true" %}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Announcement 📌
+      subtitle: Last Updated - 12 Aug, 2025
+      text: |
+        Job Posting: **Research Associates/Research fellows** for Computer Vision and Machine Learning for defect classification in 3D printing. {{% cta cta_link="uploads/D3lab_IISc_Advt_RA_12-08-2025.pdf" cta_text="RA/RF Advertisement →" cta_new_tab="true" %}}
+    design:
+      columns: '1'
   
   - block: collection
     content:
