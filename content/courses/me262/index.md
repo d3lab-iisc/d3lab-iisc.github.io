@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-08-01T11:30:00Z'
-date_end: '2024-11-14T13:00:00Z'
+date: '2025-08-01T11:30:00Z'
+date_end: '2025-11-14T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -51,14 +51,16 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+
+# | **Venue**       | MMCR, Mechanical Engineering Department, IISc |
+# | **Time**        | Tuesday and Thursday, 11:30 AM- 1:00 PM       |
 projects:
 ---
 
 | ME262 (3:0)     | Wave Propagation in Solids                    |
 |-----------------|-----------------------------------------------|
 | **Instructors** | Debashish Das, Akshay Joshi                   |
-| **Venue**       | MMCR, Mechanical Engineering Department, IISc |
-| **Time**        | Tuesday and Thursday, 11:30 AM- 1:00 PM       |
+
 
 ### Syllabus:
 Uniaxial stress waves (equation of motion, x-t diagrams, reflection at boundaries, impedance mismatch); Uniaxial strain waves (method of characteristics); Bulk waves in 2D and 3D media (longitudinal & shear waves, Rayleigh and Stoneley waves, plane waves in 2D, reflection and refraction); Wave guides (dispersion, phase & group velocities, vibrating beams, Love waves, plate problems, 3D bar problems); Spherical waves (Impact of half spaces, Boussinesq & Lamb problems, unloading waves); Shock waves (1D shock waves, Rankine-Hugoniot relations, equation of state); Dynamic testing techniques (Split Hopkinson bars, plate impact, Taylor test, expanding ring).
