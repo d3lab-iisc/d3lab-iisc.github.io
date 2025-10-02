@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+  - Former Members
 ---
 I completed by Bachelor’s degree from National Institute of Technology Silchar, after which I worked in metamaterials and wave physics in Aerospace Engineering dept at IISc. Currently, I am working as a Research Associate in the Dept of Mechanical Engineering at IISc on Hetero-EUCLID. In addition to my academic pursuits, I enjoy reading books, playing chess, and experimenting with new recipes in the kitchen.
 

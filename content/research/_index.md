@@ -18,6 +18,7 @@ As our group name suggests, we deal with both- the experimental, and machine lea
   - ML Frameworks
     - NN EUCLID
     - Bayseian EUCLID
+    - Hetero EUCLID
 ```
 
 ## A) Experiments for acquiring data
@@ -53,6 +54,12 @@ An important pre-requisite for efficient machine learning frameworks used to mod
 {{< cite page="/publication/joshi-bayesian-euclid-2022" view="4" >}}
 
 ![Bayesian_EUCLID](bayesian_euclid.jpg "Schematic of Bayesian-EUCLID")
+
+### B.3) Hetero-EUCLID
+
+{{< cite page="/publication/chaurasiya-hetero-euclid-2025" view="4" >}}
+
+![Hetero_EUCLID](hetero_euclid.jpg "Schematic of Hetero-EUCLID")
 
 
 {style="text-align: justify;"}
