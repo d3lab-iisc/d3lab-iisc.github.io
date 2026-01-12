@@ -75,4 +75,4 @@ user_groups:
   - Research Associates
 ---
 
-> **Project:** Defect Segmentation in Laser-Powered Bed Fusion 3D-Printed Objects using CNN
+> **Project:** Defect Segmentation in Laser Powder Bed Fusion 3D-Printed Objects using CNN

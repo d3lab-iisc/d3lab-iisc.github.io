@@ -74,4 +74,4 @@ user_groups:
 ---
 I completed my BTech in Mechanical Engineering  from National Institute of Technology, Silchar in 2018. After that I was working as a QC/QA engineer in BrahMos Aerospace. I have a work experience of 6 years as a Sr. Systems Engineer. Post that, I joined IISc to pursue my PhD in Mechanical Engineering in the Design, Dynamics and Data Lab under Prof. Akshay Joshi in 2024. In this Lab, my work focuses on data driven techniques for applications such as defect detection  and optimization of process parameters.
 
-> **PhD Project:** Application of Deep Learning Techniques for defect detedtion in 3D printed materials
+> **PhD Project:** Application of Deep Learning Techniques for defect detection in 3D printed materials

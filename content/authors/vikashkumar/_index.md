@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: far
-    link: mailto:vikash.soni3daudnagar@gmail.com
+    link: mailto:vikashk1@iisc.ac.in
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/vikash-kumar-yadav-95b934140/

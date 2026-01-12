@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: far
     link: mailto:balaramecit@gmail.com
-  # - icon: linkedin-in
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/saurav-dutta-7aa931195/
+  - icon: linkedin-in
+    icon_pack: fab
+    link: https://www.linkedin.com/in/balaram-aitipamula-a79058207/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=en&user=YVDDHiMAAAAJ
