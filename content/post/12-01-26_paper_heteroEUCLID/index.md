@@ -55,5 +55,6 @@ We propose a computational framework, **Hetero-EUCLID**, for segmentation and pa
 We validate and demonstrate the ability of the proposed framework to segment the domain and characterize the constituent materials on various types of thin square heterogeneous domains. We validate the framework's ability to segment and characterize materials with multiple levels of displacement noises and non-native mesh discretizations, i.e., using different meshes for the forward FE simulations and the inverse EUCLID problem. This demonstrates the applicability of the Hetero-EUCLID framework in Digital Image/Volume Correlation-based experimental scenarios. Furthermore, the proposed framework performs successful segmentation and material characterizations based on data from a single experiment, thereby making it viable for rapid, interpretable model discovery in domains such as aerospace and defense composites and for characterization of selective tissue stiffening in medical conditions such as *fibroatheroma*, *atherosclerosis*, or cancer. 
 
 
-{{< video src="HeteroEUCLID.mp4" controls="yes" caption="Generated using [Saral AI](https://saral.democratiseresearch.in/) (ANRF recommended)">}}
+{{< video src="HeteroEUCLID.mp4" controls="yes" >}}
+Video generated using [Saral AI](https://saral.democratiseresearch.in/) (ANRF recommended)
 
