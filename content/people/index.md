@@ -24,16 +24,25 @@ sections:
       show_social: true
   - block: markdown
     content:
-      title: Alumni
+      title: Former Members
       text: |-
-        {{< spoiler text="Show Former Members" >}}
+        {{< spoiler text="MTech/MTech(Res)" >}}
+        |  Graduation Year | Name | Degree |
+        | :---: | :--- | :---: |
+        | 2025 | Gulshan Baghel | MTech |
+        | 2025 | Padmani Shivam B | MTech |
+        {{< /spoiler >}}
 
-        | Name | Position in Lab | Years | Current Affiliation |
-        | :--- | :--- | :---: | :--- |
-        | Dr. A. Kumar | PhD Student | 2020–2025 | Assistant Professor, XYZ University |
-        | B. Rao | Masters Student | 2022–2024 | PhD Student, IIT Bombay |
-        | C. Sharma | Research Associate | 2021–2023 | ABC Technologies |
-
+        {{< spoiler text="Research Associates" >}}
+        | Name | Lab Affiliation |
+        | :---: | :--- | 
+        | Balaram Aitipamula | Research Associate |
+        | Vedant Singh Bedi | Intern |
+        | Rajdeep Lahiri| Intern |
+        | Kaustuv Devmishra| Intern |
+        | Saurav Dutta | Research Associate |
+        | Mamkesh Gautam| Research Associate |
+        | Srivageesh K Srinidhi | Intern |
         {{< /spoiler >}}
     design:
       columns: '1'
