@@ -17,12 +17,10 @@ The Split Hopkinson Pressure Bar (SHPB), also known as the Kolsky apparatus, is 
 
 | Specification | Details |
 | :--- | :--- |
-| Primary application | High strain-rate material characterization |
 | Configurations | Compression SHPB (standard), modifiable to Tension SHPB |
 | Bar materials (compression) | Stainless Steel 15-5 PH, Aluminium 7075-T6, Magnesium alloy (for impedance matching) |
 | Tension setup | Stainless Steel 15-5 PH bar configuration for tensile pulse generation |
 | Striker bar lengths | 100 mm, 200 mm, 300 mm |
-| Instrumentation | Strain gauges, signal conditioning unit (Wheatstone bridge / amplifier), and high-speed data acquisition system (oscilloscope) |
 | Measured quantities | Incident, reflected, and transmitted waves |
 | Strain gauges | 350 Ω, gauge factor 2.07, 3 mm gauge length |
 | Amplifier | Transducer amplifier with Wheatstone bridge compatibility and adjustable gain |
@@ -38,7 +36,7 @@ The biaxial tensile machine is used to deform specimens along two in-plane direc
 | :--- | :--- |
 | Primary application | Multiaxial mechanical testing |
 | Loading mode | In-plane biaxial tension |
-| Measured quantities | Force, displacement, deformation fields |
+| Measured quantities | Force (upto 100 N), displacement (upto 120 mm along single axis) |
 | Typical use cases | Hyperelastic characterization, anisotropy studies, model calibration |
 
 ## 3. Polytec IVS-500 Laser Vibrometer
@@ -52,11 +50,9 @@ The Polytec IVS-500 Industrial Vibration Sensor is a non-contact optical instrum
 | Model | Polytec IVS-500 |
 | Measurement type | Non-contact vibration / velocity measurement |
 | Maximum frequency | Up to 100 kHz |
-| Laser type | Helium Neon (HeNe) |
 | Minimum stand-off distance | 47 mm (remote focus) / 86 mm (manual focus) |
 | Maximum stand-off distance | 3 m |
 | Analog output | ±4 V |
-| Protection class | IP64 |
 | Weight | ca. 3.1 kg |
 | Power supply | 11 V to 14.5 V DC, max. 15 W |
 
@@ -75,9 +71,9 @@ The Modal Shop shaker K2004E01 is used to provide controlled vibration excitatio
 | Shaker model | 2004E |
 | Amplifier model | Integrated |
 
-## 5. Oscilloscope
+## 5. Tektronix 2 Series Oscilloscope
 
-![Oscilloscope](oscilloscope.jpg "Oscilloscope")
+![Oscilloscope](oscilloscope.png "Tektronix 2 Series Oscilloscope")
 
 The oscilloscope is used for time-resolved signal acquisition, debugging, synchronization, and waveform analysis in dynamic experiments. It is especially useful for monitoring sensor outputs, trigger signals, strain gauge responses, excitation signals, and other transient measurements in laboratory testing.
 

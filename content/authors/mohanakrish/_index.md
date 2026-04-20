@@ -45,9 +45,9 @@ social:
   - icon: envelope
     icon_pack: far
     link: mailto:mohanakrish1@iisc.ac.in
-  # - icon: linkedin-in
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/prajyotpatil9120/
+  - icon: linkedin-in
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mohana-krishnan-p-2b06b23a1
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=en&user=YVDDHiMAAAAJ
