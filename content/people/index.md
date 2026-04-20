@@ -24,14 +24,17 @@ sections:
       show_social: true
   - block: markdown
     content:
-      title: Former Members
+      title: Alumni
       text: |-
-        | Name | Degree/Role | Current Position |
-        | :--- | :---: | ---: |
-        | A. Kumar | PhD Student | Assistant Professor |
-        | B. Rao | Masters Student | PhD, IIT Bombay |
-        | C. Sharma | Research Associate | Industry |
+        {{< spoiler text="Show Former Members" >}}
 
+        | Name | Position in Lab | Years | Current Affiliation |
+        | :--- | :--- | :---: | :--- |
+        | Dr. A. Kumar | PhD Student | 2020–2025 | Assistant Professor, XYZ University |
+        | B. Rao | Masters Student | 2022–2024 | PhD Student, IIT Bombay |
+        | C. Sharma | Research Associate | 2021–2023 | ABC Technologies |
+
+        {{< /spoiler >}}
     design:
       columns: '1'
 ---
