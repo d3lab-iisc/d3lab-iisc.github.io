@@ -5,7 +5,7 @@ toc: true
 diagram: true
 date: 2023-12-01
 ---
-
+{{< toc >}}
 As our group name suggests, we deal with both- the experimental, and machine learning side of things. We attack the problem of characterizing generic material behavior on two fronts - 
 1. _designing and conducting better experiments to probe the material behavior efficiently at different stress-states._ 
 2. _designing novel machine learning frameworks to learn and surrogate/mimic the material behavior._
