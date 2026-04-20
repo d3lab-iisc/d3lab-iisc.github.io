@@ -15,7 +15,7 @@ sections:
           - PhD Students
           - Masters Students
           - Research Associates
-          - Former Members
+          # - Former Members
       sort_by: Params.first_name
       sort_ascending: true
     design:
@@ -29,20 +29,20 @@ sections:
         {{< spoiler text="MTech/MTech(Res)" >}}
         |  Graduation Year | Name | Degree |
         | :---: | :--- | :---: |
-        | 2025 | Gulshan Baghel | MTech |
-        | 2025 | Padmani Shivam B | MTech |
+        | 2025 | [Gulshan Baghel](https://www.linkedin.com/in/gulshan-baghel-a94a3a2a4) | MTech |
+        | 2025 | [Padmani Shivam B](https://www.linkedin.com/in/shivampadmani/) | MTech |
         {{< /spoiler >}}
 
         {{< spoiler text="Research Associates" >}}
         | Name | Lab Affiliation |
-        | :---: | :--- | 
-        | Balaram Aitipamula | Research Associate |
-        | Vedant Singh Bedi | Intern |
-        | Rajdeep Lahiri| Intern |
-        | Kaustuv Devmishra| Intern |
-        | Saurav Dutta | Research Associate |
-        | Mamkesh Gautam| Research Associate |
-        | Srivageesh K Srinidhi | Intern |
+        | :--- | :--- | 
+        | [Balaram Aitipamula](https://www.linkedin.com/in/balaram-aitipamula-a79058207/) | Research Associate |
+        | [Vedant Singh Bedi](https://www.linkedin.com/in/vedant-singh-bedi-22194527b) | Intern |
+        | [Rajdeep Lahiri](https://www.linkedin.com/in/rajdeep-lahiri-b86593243) | Intern |
+        | [Kaustuv Devmishra](https://www.linkedin.com/in/kaustuv-devmishra-372868253) | Intern |
+        | [Saurav Dutta](https://www.linkedin.com/in/saurav-dutta-7aa931195/) | Research Associate |
+        | [Mamkesh Gautam](https://www.linkedin.com/in/mamkeshgautam/) | Research Associate |
+        | [Srivageesh K Srinidhi](https://www.linkedin.com/in/srivageesh-k-srinidhi-645547228/) | Intern |
         {{< /spoiler >}}
     design:
       columns: '1'
