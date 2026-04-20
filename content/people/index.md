@@ -23,3 +23,9 @@ sections:
       show_role: true
       show_social: true
 ---
+
+| Name    | Role       | Status |
+| :---    | :---       | :---   |
+| Alice   | Developer  | Active |
+| Bob     | Designer   | Active |
+| Charlie | PM         | Away   |
