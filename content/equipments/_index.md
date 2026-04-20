@@ -5,7 +5,7 @@ date: 2026-04-20
 toc: true
 ---
 
-Our laboratory is equipped with a range of experimental and measurement systems for high strain-rate testing, multiaxial deformation studies, and structural dynamics measurements. These facilities support our work in material characterization, wave propagation, inverse modeling, and data-driven constitutive discovery.
+Our laboratory is equipped with a range of experimental and measurement systems for high strain-rate testing, multiaxial deformation studies, vibration measurements, and electronic diagnostics. These facilities support our work in material characterization, wave propagation, inverse modeling, and data-driven constitutive discovery.
 
 {{< toc >}}
 
@@ -13,18 +13,20 @@ Our laboratory is equipped with a range of experimental and measurement systems 
 
 ![Split-Hopkinson Pressure Bar](shpb.jpeg "Split-Hopkinson Pressure Bar")
 
-The Split-Hopkinson Pressure Bar (SHPB) setup is used for characterizing materials under high strain-rate loading conditions. It enables dynamic testing by generating stress waves through elastic bars and measuring the resulting specimen response. The setup is useful for studying rate-dependent mechanical behavior of metals, polymers, composites, and other engineering materials.
+The Split Hopkinson Pressure Bar (SHPB), also known as the Kolsky apparatus, is a high strain-rate testing technique used to characterize material behavior under dynamic loading. It consists of two long bars with a short specimen sandwiched between them, where waves are generated using a striker bar.These waves propagate through the incident and transmission bars, while strain gauges record the signals for analysis.The recorded data is used to determine stress, strain, and strain rate, and the system can be adapted for both compression and tension shpb testing.
 
 | Specification | Details |
 | :--- | :--- |
 | Primary application | High strain-rate material characterization |
-| Loading mode | Dynamic compression / impact-based loading |
-| Measured quantities | Stress-wave signals, strain response |
-| Typical use cases | Constitutive modeling, dynamic testing, inverse characterization |
+| Configurations | Compression SHPB (standard), modifiable to Tension SHPB |
+| Bar materials (compression) | Stainless Steel 15-5 PH, Aluminium 7075-T6, Magnesium alloy (for impedance matching) |
+| Tension setup | Stainless Steel 15-5 PH bar configuration for tensile pulse generation |
+| Striker bar lengths | 100 mm, 200 mm, 300 mm |
+| Instrumentation | Strain gauges, signal conditioning unit (Wheatstone bridge / amplifier), and high-speed data acquisition system (oscilloscope) |
+| Measured quantities | Incident, reflected, and transmitted waves |
+| Strain gauges | 350 Ω, gauge factor 2.07, 3 mm gauge length |
+| Amplifier | Transducer amplifier with Wheatstone bridge compatibility and adjustable gain |
 
-{{< spoiler text="More details" >}}
-The SHPB setup is particularly useful when conventional quasi-static testing is insufficient to capture the response of materials subjected to rapid loading. It forms an important part of our experimental efforts aimed at building reliable constitutive models under extreme conditions.
-{{< /spoiler >}}
 
 ## 2. Biaxial Tensile Machine
 
@@ -39,40 +41,53 @@ The biaxial tensile machine is used to deform specimens along two in-plane direc
 | Measured quantities | Force, displacement, deformation fields |
 | Typical use cases | Hyperelastic characterization, anisotropy studies, model calibration |
 
-{{< spoiler text="More details" >}}
-Biaxial testing provides information that is often difficult to infer from uniaxial experiments alone. In our work, such data is particularly relevant for constitutive identification and for improving the robustness of machine-learning-based material modeling frameworks.
-{{< /spoiler >}}
+## 3. Polytec IVS-500 Laser Vibrometer
 
-## 3. Polytec IVS 500 Laser Vibrometer
+![Polytec IVS-500 Laser Vibrometer](ldv.jpg "Polytec IVS-500 Laser Vibrometer")
 
-![Polytec IVS 500 Laser Vibrometer](ldv.jpg "Polytec IVS 500 Laser Vibrometer")
-
-The Polytec IVS 500 laser vibrometer is a non-contact optical measurement instrument used for capturing vibration and velocity response of surfaces. It is well suited for dynamic experiments involving wave propagation, modal analysis, and structural response measurement where conventional contact sensors may influence the behavior of the specimen.
+The Polytec IVS-500 Industrial Vibration Sensor is a non-contact optical instrument used for vibration and velocity measurements. It is particularly useful for wave propagation studies, modal testing, and dynamic response measurements on delicate or lightweight specimens where contact sensors are undesirable.
 
 | Specification | Details |
 | :--- | :--- |
-| Primary application | Non-contact vibration measurement |
-| Measurement type | Velocity / vibration response |
-| Key advantage | Optical, non-contact sensing |
-| Typical use cases | Wave propagation, modal studies, thin-film and plate dynamics |
-
-{{< spoiler text="More details" >}}
-Laser vibrometry is especially powerful for delicate or lightweight specimens where attaching physical sensors is undesirable. It allows spatially resolved dynamic measurements and supports experiments involving flexural and surface waves in thin structures.
-{{< /spoiler >}}
+| Model | Polytec IVS-500 |
+| Measurement type | Non-contact vibration / velocity measurement |
+| Maximum frequency | Up to 100 kHz |
+| Laser type | Helium Neon (HeNe) |
+| Minimum stand-off distance | 47 mm (remote focus) / 86 mm (manual focus) |
+| Maximum stand-off distance | 3 m |
+| Analog output | ±4 V |
+| Protection class | IP64 |
+| Weight | ca. 3.1 kg |
+| Power supply | 11 V to 14.5 V DC, max. 15 W |
 
 ## 4. The Modal Shop Shaker K2004E01
 
 ![The Modal Shop Shaker K2004E01](shaker.jpg "The Modal Shop Shaker K2004E01")
 
-The Modal Shop shaker K2004E01 is used to introduce controlled dynamic excitation into structures and specimens. It is useful for vibration testing, modal characterization, and forced-response studies. In combination with non-contact sensing systems such as laser vibrometers, the shaker supports detailed studies of structural dynamics and wave motion.
+The Modal Shop shaker K2004E01 is used to provide controlled vibration excitation for structural dynamics, modal testing, and wave propagation studies. It is well suited for forced-response experiments and can be used together with optical measurement systems such as laser vibrometers.
 
 | Specification | Details |
 | :--- | :--- |
-| Primary application | Controlled vibration excitation |
-| Excitation type | Harmonic / dynamic forcing |
-| Typical use cases | Modal testing, wave excitation, dynamic response studies |
-| Compatible measurements | Vibrometry, accelerometry, high-speed diagnostics |
+| Kit model | K2004E01 |
+| Force rating | 4.5 lbf (20 N) |
+| Max frequency | 11 KHz |
+| Max stroke | 0.2 in (5 mm) pk-pk |
+| Shaker model | 2004E |
+| Amplifier model | Integrated |
 
-{{< spoiler text="More details" >}}
-This shaker is used when a repeatable and controllable input excitation is required. It is particularly useful in experiments focused on modal identification, wave transmission, damping studies, and validation of computational dynamic models.
-{{< /spoiler >}}
+## 5. Oscilloscope
+
+![Oscilloscope](oscilloscope.jpg "Oscilloscope")
+
+The oscilloscope is used for time-resolved signal acquisition, debugging, synchronization, and waveform analysis in dynamic experiments. It is especially useful for monitoring sensor outputs, trigger signals, strain gauge responses, excitation signals, and other transient measurements in laboratory testing.
+
+| Specification | Details |
+| :--- | :--- |
+| Instrument family | Tektronix 2 Series MSO |
+| Analog input channels | 2 |
+| Maximum sample rate | 2.5 GS/s |
+| Record length | 10 M points per channel |
+| Vertical resolution | 8 bits |
+| Display | 10.1-inch TFT touchscreen |
+| Display resolution | 1280 × 800 |
+| Digital input channels | 16 (optional / model dependent) |
