@@ -1,6 +1,8 @@
 ---
 title: Research
 summary: A description of my page for search engines.
+toc: true
+diagram: true
 date: 2023-12-01
 ---
 
