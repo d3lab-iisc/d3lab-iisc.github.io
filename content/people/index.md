@@ -22,10 +22,16 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
----
+  - block: markdown
+    content:
+      title: Former Members
+      text: |-
+        | Name | Degree/Role | Current Position |
+        | :--- | :---: | ---: |
+        | A. Kumar | PhD Student | Assistant Professor |
+        | B. Rao | Masters Student | PhD, IIT Bombay |
+        | C. Sharma | Research Associate | Industry |
 
-| Name    | Role       | Status |
-| :---    | :---       | :---   |
-| Alice   | Developer  | Active |
-| Bob     | Designer   | Active |
-| Charlie | PM         | Away   |
+    design:
+      columns: '1'
+---
