@@ -17,7 +17,7 @@ M S Swaminathan Research Foundation as the Chief Guest.
 | [Prajyot Pradeepkumar Patil](https://www.linkedin.com/in/prajyotpatil9120/)    | MTech    |
 
 
-![Conovation 2026](event2.jpeg "Harshavardhan *(left)* and Prajyot *(right)* with their M.Tech Degree")
+![Conovation 2026](event.jpeg "Harshavardhan *(left)* and Prajyot *(right)* with their M.Tech Degree")
 
 
 
