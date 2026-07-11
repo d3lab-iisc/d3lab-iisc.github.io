@@ -12,13 +12,13 @@ Indian Institute of Science (IISc) Bangalore held its Convocation-2025 on July 1
 
 | **Name**         | **Degree conferred** |
 |------------------|----------------------|
-| {{% mention "gulshanb" %}}   | MTech    |
-| {{% mention "shivamb" %}}    | MTech    |
+| [Gulshan Baghel](https://www.linkedin.com/in/gulshan-baghel-a94a3a2a4)   | MTech    |
+| [Padmani Shivam B](https://www.linkedin.com/in/shivampadmani/)    | MTech    |
 
 
-![3rd MS Symposium-2025](event1.jpg)
+![Conovation 2025 1](event1.jpg)
 
-![3rd MS Symposium-2025-1](event2.jpeg "Padmani Shivam B with Dr. Akshay Joshi")
+![Conovation 2025 2](event2.jpeg "Padmani Shivam B *(left)* with Dr. Akshay Joshi *(right)*")
 
 
 

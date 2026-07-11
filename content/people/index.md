@@ -29,6 +29,8 @@ sections:
         {{< spoiler text="MTech/MTech(Res)" >}}
         |  Graduation Year | Name | Degree |
         | :---: | :--- | :---: |
+        | 2026 | [Lakhinana Harshavardhan](https://www.linkedin.com/in/lakhinana-harshavardhan-b98898186/) | MTech |
+        | 2026 | [Prajyot Pradeepkumar Patil](https://www.linkedin.com/in/prajyotpatil9120/) | MTech |
         | 2025 | [Gulshan Baghel](https://www.linkedin.com/in/gulshan-baghel-a94a3a2a4) | MTech |
         | 2025 | [Padmani Shivam B](https://www.linkedin.com/in/shivampadmani/) | MTech |
         {{< /spoiler >}}
@@ -36,6 +38,7 @@ sections:
         {{< spoiler text="Research Associates" >}}
         | Name | Lab Affiliation |
         | :--- | :--- | 
+        | [Kratin Gupta](https://www.linkedin.com/in/kratin-gupta-582862336) | Intern |
         | [Balaram Aitipamula](https://www.linkedin.com/in/balaram-aitipamula-a79058207/) | Research Associate |
         | [Vedant Singh Bedi](https://www.linkedin.com/in/vedant-singh-bedi-22194527b) | Intern |
         | [Rajdeep Lahiri](https://www.linkedin.com/in/rajdeep-lahiri-b86593243) | Intern |

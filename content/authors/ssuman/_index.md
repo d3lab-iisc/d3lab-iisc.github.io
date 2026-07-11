@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kratin Gupta
+title: Suman Sowmondal
 
 # Full name (for SEO)
-first_name: Kratin 
-last_name: Gupta
+first_name: Suman
+last_name: Sowmondal
 
 # Username (this should match the folder name)
 authors:
-  - kratin
+  - ssuman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Intern
+role: MTech
 
 # Organizations/Affiliations
 organizations:
@@ -25,14 +25,18 @@ organizations:
 # bio:  MTech Project - Mechanical computing for faster Neural Networks
 
 interests:
+  - Applied Mechanics
+  - Design Engineering
   - Machine Learning
-  - Fluid Mechanics
 
 education:
   courses:
-    - course: BTech in Mechanical Engineering
-      institution: Indian Institute of Technology (IIT) Bombay
-      year: 2028
+    - course: MTech in Mechanical Engineering
+      institution: Indian Institute of Science (IISc) Bengaluru
+      year: 2027
+    - course: BE in Mechanical Engineering
+      institution: Jadavpur University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,10 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: far
-    link: mailto:24B2208@iitb.ac.in
+    link: mailto:ssuman@iisc.ac.in
   - icon: linkedin-in
     icon_pack: fab
-    link: https://www.linkedin.com/in/kratin-gupta-582862336
+    link: https://www.linkedin.com/in/suman-sowmondal-iisc27/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=en&user=YVDDHiMAAAAJ
@@ -53,7 +57,7 @@ social:
   #   link: ''
   # - icon: link
   #   icon_pack: fas
-  #   link: https://d-saurav.github.io/
+  #   link: https://sites.google.com/view/shivampadmani/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,8 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+  - Masters Students
 ---
-Hello I am Kratin, an undergraduate student studying Mechanical Engineering at IIT Bombay. Outside of the classroom, I am involved with the IIT Bombay Sustainability Cell. I am a huge sports enthusiast, so in my downtime, you can usually find me analyzing Formula 1 races, following cricket. I also love playing chess and pool.
 
-> **Project:** Variational Autoencoders
+> **MTech Project:** Self-Supervised Semantic Image Segmentation to detect defects in Metal 3D Printing.
