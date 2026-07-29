@@ -25,8 +25,6 @@ Hetero-EUCLID: Interpretable Model Discovery for Heterogeneous Hyperelastic Mate
 {{% /callout %}}
 ![Event1](KLC_PPT.jpeg)
 
-![Event1](withJeremy.jpeg "Kanhaiya *(left)*, [Jeremy Bleyer](https://bleyerj.github.io/) *(middle)* and Akshay Joshi *(right)*")
-
 ![Event2](AJ_KLC.jpeg)
 
 ![Event3](KLC_ECCOMAS.jpeg "WCCM-ECCOMAS 2026, Munich, Germany")
