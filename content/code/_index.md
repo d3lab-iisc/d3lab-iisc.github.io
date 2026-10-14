@@ -19,7 +19,7 @@ sections:
     content:
       title: Code
       text: |-
-        Open-source implementations of our methods, latest first. The code is available on the [D3 Lab GitHub](https://github.com/d3lab-iisc/) and the [EUCLID GitHub](https://github.com/EUCLID-code/). If you use any of it in your work, please cite the corresponding paper.
+        Open-source implementations of our methods. The code is available on the [D3 Lab GitHub](https://github.com/d3lab-iisc/). If you use any of it in your work, please cite the corresponding paper.
     design:
       columns: '1'
       spacing:
