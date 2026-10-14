@@ -15,4 +15,7 @@ doi: 10.1016/j.cma.2026.118729
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0045782526000034
+url_code: https://github.com/d3lab-iisc/Hetero-EUCLID
+projects:
+- hetero-euclid
 ---
