@@ -5,7 +5,7 @@
 # page in content/publication/.
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 summary: One-line description of what the code does. Python · License
-date: {{ .Date }}
+date: {{ .Date }} # set to the date the code was first released (cards are ordered by it)
 show_date: false
 
 tags: []

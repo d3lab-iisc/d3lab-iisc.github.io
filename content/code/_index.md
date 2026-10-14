@@ -6,7 +6,9 @@ type: landing
 
 # Every page inside content/code/ is shown as a code card below.
 # To add a new code: copy the `hetero-euclid` folder, rename it, and edit its index.md
-# (or run `hugo new content code/<repo-name>`). Newest first (by `date`).
+# (or run `hugo new content code/<repo-name>`).
+# Cards are shown in order of launch (oldest first), using each page's `date`
+# = the date the code was first released.
 cascade:
   - _target:
       kind: page
@@ -17,7 +19,7 @@ sections:
     content:
       title: Code
       text: |-
-        Open-source implementations of our methods. All code is available on the [D3 Lab GitHub](https://github.com/d3lab-iisc/). If you use any of it in your work, please cite the corresponding paper.
+        Open-source implementations of our methods, listed in order of release. The code is available on the [D3 Lab GitHub](https://github.com/d3lab-iisc/) and the [EUCLID GitHub](https://github.com/EUCLID-code/). If you use any of it in your work, please cite the corresponding paper.
     design:
       columns: '1'
       spacing:
@@ -30,7 +32,7 @@ sections:
         folders:
           - code
       sort_by: Date
-      sort_ascending: false
+      sort_ascending: true
     design:
       columns: '1'
       view: masonry

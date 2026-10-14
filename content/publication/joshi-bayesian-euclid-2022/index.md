@@ -17,4 +17,7 @@ doi: 10.1016/j.cma.2022.115225
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0045782522003681
+url_code: https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian
+projects:
+- bayesian-euclid
 ---
