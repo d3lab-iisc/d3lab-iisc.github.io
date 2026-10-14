@@ -20,8 +20,8 @@ sections:
         country: India
         country_code: IN
       coordinates:
-        latitude: '13.015766493942056'
-        longitude: '77.57195340887293'  
+        latitude: '13.015741'
+        longitude: '77.5719583'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
@@ -47,23 +47,17 @@ sections:
     design:
       columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: contact.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      text: |-
+        <div style="position:relative; width:100%; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+          <iframe src="https://maps.google.com/maps?q=Department+of+Mechanical+Engineering,+Indian+Institute+of+Science,+Bengaluru&z=17&output=embed" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Department of Mechanical Engineering, IISc on Google Maps"></iframe>
+        </div>
+
+        [Open in Google Maps](https://maps.app.goo.gl/wy2M5cUQCfi7TjzUA)
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '40px', '0']
 ---

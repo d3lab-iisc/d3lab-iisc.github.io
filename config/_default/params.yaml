@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'MechE | IISc Bangalore'
-    twitter: 'GetResearchDev'
+    org_name: 'Dynamics, Data and Design (D3) Lab, IISc Bengaluru'
+    description: 'MechE | IISc Bengaluru'
+    twitter: ''
   analytics:
     google_analytics: 'G-1JMV2DEWRP'
     baidu_tongji: ''
@@ -28,6 +28,10 @@ marketing:
   verification:
     google: ''
     baidu: ''
+
+# Hide the footer line
+
+i_am_a_sponsor: true
 
 # Site header
 
@@ -72,7 +76,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/d3lab-iisc/d3lab-iisc.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -98,7 +102,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: '' # 'mapnik' (OpenStreetMap) disabled; Google Maps embed is in content/contact/index.md
     api_key: ''
     zoom: 17
 

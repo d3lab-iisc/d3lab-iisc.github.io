@@ -5,7 +5,7 @@ date: 2025-03-18
 
 **Title:** Machine Learning Surrogates for Constitutive Modelling of Materials
 
-**Speaker:** [Dr. Akshay Joshi](https://mecheng.iisc.ac.in/people/akshay-joshi/), IISc Bangalore
+**Speaker:** [Dr. Akshay Joshi](https://mecheng.iisc.ac.in/people/akshay-joshi/), IISc Bengaluru
 
 <!--more-->
 

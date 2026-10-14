@@ -74,6 +74,6 @@ user_groups:
   - Masters Students
 ---
 
-I graduated from the Andhra University College of Engineering in 2025 with a B.Tech in Mechanical Engineering. I am currently pursuing an M.Tech in Mechanical Engineering at the Indian Institute of Science (IISc), Bangalore. My master's thesis focuses on accelerating routine finite element simulations using novel machine learning techniques. My research interests include finite element analysis, computational mechanics, machine learning for engineering, and scientific computing. I interned at Maruti Suzuki India Limited, where I worked on manufacturing automation and machine vision-based quality inspection projects for automotive manufacturing.
+I graduated from the Andhra University College of Engineering in 2025 with a B.Tech in Mechanical Engineering. I am currently pursuing an M.Tech in Mechanical Engineering at the Indian Institute of Science (IISc), Bengaluru. My master's thesis focuses on accelerating routine finite element simulations using novel machine learning techniques. My research interests include finite element analysis, computational mechanics, machine learning for engineering, and scientific computing. I interned at Maruti Suzuki India Limited, where I worked on manufacturing automation and machine vision-based quality inspection projects for automotive manufacturing.
 
 > **MTech Project:** Accelerating routine Finite Element simulations using novel Machine Learning techniques

@@ -1,5 +1,5 @@
 ---
-title: Lab Equipments
+title: Lab Equipment
 summary: Experimental and measurement facilities available in D3 Lab.
 date: 2026-04-20
 toc: true
@@ -13,7 +13,7 @@ Our laboratory is equipped with a range of experimental and measurement systems 
 
 ![Split-Hopkinson Pressure Bar](shpb.jpeg "Split-Hopkinson Pressure Bar")
 
-The Split Hopkinson Pressure Bar (SHPB), also known as the Kolsky apparatus, is a high strain-rate testing technique used to characterize material behavior under dynamic loading. It consists of two long bars with a short specimen sandwiched between them, where waves are generated using a striker bar.These waves propagate through the incident and transmission bars, while strain gauges record the signals for analysis.The recorded data is used to determine stress, strain, and strain rate, and the system can be adapted for both compression and tension shpb testing.
+The Split Hopkinson Pressure Bar (SHPB), also known as the Kolsky apparatus, is a high strain-rate testing technique used to characterize material behavior under dynamic loading. It consists of two long bars with a short specimen sandwiched between them, where waves are generated using a striker bar. These waves propagate through the incident and transmission bars, while strain gauges record the signals for analysis. The recorded data is used to determine stress, strain, and strain rate, and the system can be adapted for both compression and tension SHPB testing.
 
 | Specification | Details |
 | :--- | :--- |
@@ -36,7 +36,7 @@ The biaxial tensile machine is used to deform specimens along two in-plane direc
 | :--- | :--- |
 | Primary application | Multiaxial mechanical testing |
 | Loading mode | In-plane biaxial tension |
-| Measured quantities | Force (upto 100 N), displacement (upto 120 mm along single axis) |
+| Measured quantities | Force (up to 100 N), displacement (up to 120 mm along single axis) |
 | Typical use cases | Hyperelastic characterization, anisotropy studies, model calibration |
 
 ## 3. Polytec IVS-500 Laser Vibrometer
@@ -66,7 +66,7 @@ The Modal Shop shaker K2004E01 is used to provide controlled vibration excitatio
 | :--- | :--- |
 | Kit model | K2004E01 |
 | Force rating | 4.5 lbf (20 N) |
-| Max frequency | 11 KHz |
+| Max frequency | 11 kHz |
 | Max stroke | 0.2 in (5 mm) pk-pk |
 | Shaker model | 2004E |
 | Amplifier model | Integrated |

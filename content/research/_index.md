@@ -1,6 +1,6 @@
 ---
 title: Research
-summary: A description of my page for search engines.
+summary: Research at the D3 Lab, IISc - high strain-rate experiments (plate impact, Split-Hopkinson bar, wave propagation) and stress-unsupervised machine learning (EUCLID) for discovering material models.
 toc: true
 date: 2023-12-01
 ---
@@ -16,7 +16,7 @@ As our group name suggests, we deal with both- the experimental, and machine lea
     - Wave propagation
   - ML Frameworks
     - NN EUCLID
-    - Bayseian EUCLID
+    - Bayesian EUCLID
     - Hetero EUCLID
 ```
 
@@ -58,7 +58,7 @@ An important pre-requisite for efficient machine learning frameworks used to mod
 
 ### B.3) Hetero-EUCLID
 
-{{< cite page="/publication/chaurasiya-hetero-euclid-2025" view="4" >}}
+{{< cite page="/publication/chaurasiya-hetero-euclid-2026" view="4" >}}
 
 ![Hetero_EUCLID](hetero_euclid.jpg "Schematic of Hetero-EUCLID")
 

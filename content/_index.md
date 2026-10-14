@@ -46,38 +46,30 @@ sections:
       view: showcase
       columns: '1'
   
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |
+        {{% cta cta_link="./publication/" cta_text="All publications →" %}}
+      count: 3
+      filters:
+        folders:
+          - publication
+      order: desc
+    design:
+      view: citation
+      columns: '1'
 
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: citation
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Join Us
+      subtitle:
+      text: |
+        We are always looking for motivated PhD, MTech (Research) and MTech students, project associates and interns who are excited about _mechanics, materials_ and _machine learning_.
+
+        {{% cta cta_link="./contact/" cta_text="Get in touch →" %}}
+    design:
+      columns: '1'
 
   - block: markdown
     content:

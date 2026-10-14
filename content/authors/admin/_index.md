@@ -77,4 +77,4 @@ user_groups:
   - Principal Investigator
 ---
 
-I am an Assistant Professor in the Department of Mechanical Engineering at IISc Bangalore. I earned my Ph.D. from Caltech in 2021, specializing in the shock-induced phase transition of soda-lime glass. Following this, I worked for a year each with Prof. Sid Kumar at TU Delft and Prof. Vikram Deshpande at the University of Cambridge, focusing on data-driven characterization of materials. My current research centers on developing advanced experiments and machine learning frameworks for high-fidelity material modeling.  
+I am an Assistant Professor in the Department of Mechanical Engineering at IISc Bengaluru. I earned my Ph.D. from Caltech in 2021, specializing in the shock-induced phase transition of soda-lime glass. Following this, I worked for a year each with Prof. Sid Kumar at TU Delft and Prof. Vikram Deshpande at the University of Cambridge, focusing on data-driven characterization of materials. My current research centers on developing advanced experiments and machine learning frameworks for high-fidelity material modeling.  

@@ -13,9 +13,9 @@ main:
   - name: Research
     url: research
     weight: 20
-  - name: Lab Equipments
+  - name: Lab Equipment
     url: equipments
-    weight: 30  
+    weight: 30
   - name: People
     url: people
     weight: 40

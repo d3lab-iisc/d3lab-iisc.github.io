@@ -1,11 +1,11 @@
 ---
-title:  Convocation 2026, IISc Bangalore 
+title:  Convocation 2026, IISc Bengaluru 
 summary: Congratulations to all the  D<sup>3</sup> Lab students receiving their degrees!
 date: 2026-07-10
 ---
 
 <!--more-->
-Indian Institute of Science (IISc) Bangalore held its Convocation-2026 on July 10, 2026 with Dr. Soumya Swaminathan, Chair at 
+Indian Institute of Science (IISc) Bengaluru held its Convocation-2026 on July 10, 2026 with Dr. Soumya Swaminathan, Chair at 
 M S Swaminathan Research Foundation as the Chief Guest.
 
 

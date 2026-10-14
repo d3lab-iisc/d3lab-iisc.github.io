@@ -1,11 +1,11 @@
 ---
-title:  Convocation 2025, IISc Bangalore 
+title:  Convocation 2025, IISc Bengaluru 
 summary: Congratulations to all the  D<sup>3</sup> Lab students receiving their degrees!
 date: 2025-07-11
 ---
 
 <!--more-->
-Indian Institute of Science (IISc) Bangalore held its Convocation-2025 on July 11, 2025 with Professor Manjul Bhargava, Professor of Mathematics at Princeton University as the Chief Guest.
+Indian Institute of Science (IISc) Bengaluru held its Convocation-2025 on July 11, 2025 with Professor Manjul Bhargava, Professor of Mathematics at Princeton University as the Chief Guest.
 
 
 ## D<sup>3</sup> Lab Students 
